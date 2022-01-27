@@ -10,7 +10,7 @@ int main() {
     // #endif
 
     int a,b;
-    cout<<"Welcome to CPP"<<endl;
+    cout<<"Welcome to CPP2"<<endl;
     cin>>a>>b;
     cout<<a+b;
 
