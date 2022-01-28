@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-#define vector<int> vi
+
+#define vi vector<int>;
 
 int main() {
 
@@ -15,7 +16,11 @@ int main() {
 
     vi test;
 
-    
+    for(int i=0; i++; i++){
+        test.push_back(1);
+    }
+
+    cout<<test.size();
 
     return 0;
 }
