@@ -1,7 +1,9 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
-#define vi vector<int>;
+#define vi vector<int>
+#define vvi vector<vi>
+#define loop(i,k,n) for(int i=k;i<n;i++)
 
 int main() {
 
@@ -13,14 +15,6 @@ int main() {
     //     freopen("input.txt","r",stdin);
     //     freopen("output.txt","w",stdout);
     // #endif
-
-    vi test;
-
-    for(int i=0; i++; i++){
-        test.push_back(1);
-    }
-
-    cout<<test.size();
 
     return 0;
 }
