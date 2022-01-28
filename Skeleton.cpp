@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+#define vector<int> vi
 
 int main() {
 
@@ -11,6 +12,10 @@ int main() {
     //     freopen("input.txt","r",stdin);
     //     freopen("output.txt","w",stdout);
     // #endif
+
+    vi test;
+
+    
 
     return 0;
 }
